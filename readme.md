@@ -13,3 +13,11 @@
 - Criar um novo caso de teste utilizando keywords nativas como `Open Browser`, `Click Element`, `Input Text` e `Element Should Be Visible`;
 
 - Usar as ferramentas de desenvolvedor para identificar os elementos HTML da página, e utilizá-los como locator para os nossos testes.
+
+### Aula 02
+
+- Como criar e utilizar variáveis no Robot Framework;
+
+- Como criar keywords específicas para os nossos testes;
+
+- Como estruturar um novo teste para verificar a interação com o usuário em casos em que o formulário é preenchido de forma incorreta.
