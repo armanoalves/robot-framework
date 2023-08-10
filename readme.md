@@ -39,3 +39,9 @@
 - Como utilizar a biblioteca `FakerLibrary` para criar massa de dados dinâmica e preencher o formulário;
 
 - Entendemos mais sobre os relatórios de teste e a importância de dar bons nomes aos nossos testes.
+
+### Aula 05
+
+- Como estruturar nosso projeto utilizando Page Object Model;
+
+- O que é Page Object Model e porque utilizar este padrão de projeto.
