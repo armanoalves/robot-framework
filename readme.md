@@ -21,3 +21,21 @@
 - Como criar keywords específicas para os nossos testes;
 
 - Como estruturar um novo teste para verificar a interação com o usuário em casos em que o formulário é preenchido de forma incorreta.
+
+### Aula 03
+
+- Criamos um novo arquivo para padronizar o início e final dos nossos testes e configuramos nossos testes para acessá-lo;
+
+- Criamos um novo teste para verificar a interação com o usuário em caso de preenchimento incorreto do formulário;
+
+- Entendemos mais sobre os relatórios de teste e a importância de dar bons nomes aos nossos testes.
+
+### Aula 04
+
+- Como utilizar o laço `FOR` no Robot;
+
+- Como criar uma lista no Robot;
+
+- Como utilizar a biblioteca `FakerLibrary` para criar massa de dados dinâmica e preencher o formulário;
+
+- Entendemos mais sobre os relatórios de teste e a importância de dar bons nomes aos nossos testes.
